@@ -1,0 +1,185 @@
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\loginsec.mdf
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\loginsec_log.ldf
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.exe.config
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.exe
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.pdb
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\EnvDTE.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\stdole.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.MSXML.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csprojAssemblyReference.cache
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.cafedetail.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.createinitialadmin.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.pwforgot.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmaccount.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmbilling.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmcat.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmfloor.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmmenu.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmorder.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmrole.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmstaff.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmtables.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmuser.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.kitchenorder.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.LOGIN.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.main.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.orderslip.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.Properties.Resources.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmservicecharge.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.Splash_Screen.resources
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.GenerateResource.cache
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.CoreCompileInputs.cache
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.CopyComplete
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.exe
+D:\MANOJBACKUP\repos\CAFE MANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.pdb
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\loginsec.mdf
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.exe.config
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.exe.manifest
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.application
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.exe
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\CafeManagement.pdb
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\EnvDTE.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\stdole.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\Microsoft.MSXML.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csprojAssemblyReference.cache
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.cafedetail.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.createinitialadmin.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.pwforgot.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmaccount.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmbilling.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmcat.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmfloor.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmmenu.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmorder.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmrole.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmstaff.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmtables.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmuser.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.kitchenorder.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.LOGIN.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.main.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.orderslip.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.Properties.Resources.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.frmservicecharge.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.Splash_Screen.resources
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.GenerateResource.cache
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.CoreCompileInputs.cache
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.exe.manifest
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.application
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CAFEMANAGEMENT.csproj.CopyComplete
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.exe
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\obj\Debug\CafeManagement.pdb
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\cafemanagement.mdf
+D:\MANOJBACKUP\repos\CAFEMANAGEMENT\CAFEMANAGEMENT\bin\Debug\cafemanagement_log.ldf

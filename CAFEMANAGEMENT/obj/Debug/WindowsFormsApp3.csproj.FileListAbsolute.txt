@@ -1,0 +1,125 @@
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec.mdf
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec_log.ldf
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Billcontrol.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Homecontrol.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LOGIN.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Splash_Screen.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.staffcontrol.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Stockcontrol.resources
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Manoj\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec.mdf
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec_log.ldf
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Billcontrol.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Homecontrol.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LOGIN.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Splash_Screen.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.staffcontrol.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Stockcontrol.resources
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\MANOJ BACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec.mdf
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\loginsec_log.ldf
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pwforgot.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmbilling.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmcat.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmfloor.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmmenu.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmorder.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmrole.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmstaff.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmtables.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmuser.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.kitchenorder.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LOGIN.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.main.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Splash_Screen.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.createinitialadmin.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EnvDTE.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\stdole.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.MSXML.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmservicecharge.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.cafedetail.resources
+D:\MANOJBACKUP\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.frmaccount.resources
